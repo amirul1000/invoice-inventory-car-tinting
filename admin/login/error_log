@@ -1,0 +1,2 @@
+[31-Aug-2019 23:03:59 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/relativeads/public_html/car/admin/template/login_header.php on line 16
+[31-Aug-2019 23:04:24 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/relativeads/public_html/car/admin/template/login_header.php on line 16
