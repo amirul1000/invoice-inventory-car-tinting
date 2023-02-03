@@ -20,9 +20,8 @@ So one purchase or one Sell could have multiple items at a time.
 Now I will show you how code and functionality work 
 
 
-Youtube Tutorial : https://youtu.be/E_bmYAaSvCw
+Youtube Tutorial : https://youtu.be/C6M5eSC-anc
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 "# pos_inventory" 
 
